@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /terms.html
+Disallow: /privacy.html
+Disallow: /complaints.html
+
+Sitemap: https://ai-joi.eu/sitemap.xml
